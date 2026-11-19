@@ -1,0 +1,9 @@
+# 个人训练记录不进仓库（模板除外）
+sessions/
+!templates/
+
+# 系统杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
