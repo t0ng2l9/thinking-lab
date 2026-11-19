@@ -1,6 +1,7 @@
-# 个人训练记录不进仓库（模板除外）
-sessions/
-!templates/
+# 个人训练记录不进仓库，示例除外
+sessions/*
+!sessions/001-*.md
+!sessions/README.md
 
 # 系统杂物
 .DS_Store

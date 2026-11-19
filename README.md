@@ -57,12 +57,14 @@
 │   ├── scoring.md             8 维 × 1–5 分的行为锚点
 │   ├── errors.md              13 类可命名的认知错误 + 复发计数规则
 │   ├── blindspots.md          8 维评分漏掉了什么（对评分体系的自审）
-│   └── limits.md              已知缺陷、适用边界、为什么只有一次训练
+│   └── limits.md              已知缺陷、适用边界、为什么只有两次训练
 ├── coach/
 │   └── prompt.md              教练系统提示词（可直接复制使用）
 ├── templates/
 │   ├── session.md             一次训练的空白记录模板（10 项）
 │   └── state.md               基线与进度的空白模板
+├── sessions/
+│   └── 001-distribution-before-output.md   一次真实训练（已脱敏）
 └── LICENSE                    MIT
 ```
 
